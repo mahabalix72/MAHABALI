@@ -13,7 +13,7 @@ async def start_(client: Client, message: Message):
         photo=f"https://te.legra.ph/file/bae74190b4bbcfa058415.jpg",
         caption=f"""** 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐌𝐮𝐬𝐢𝐜 🎧 𝐈𝐧 𝐕𝐜 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐁𝐲 = [💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔](https://t.me/BROKENLONDAZ)
 
-𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [✨ 💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔 💜](https://t.me/BROKENLONDAZ)
+𝐂𝐫𝐞𝐚𝐭𝐨𝐫 :- [✨ 💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔](https://t.me/BROKENLONDAZ)
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [✨ 𝐂𝐇𝐀𝐓𝐓𝐈𝐍𝐆 ❤️🎸](https://t.me/Flarting_chatting)
 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 :- [✨  𝐆𝐑𝐎𝐔𝐏 🎧](https://t.me/Flarting_chatting)
 
