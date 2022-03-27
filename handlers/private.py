@@ -17,7 +17,7 @@ async def start_(client: Client, message: Message):
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 :- [✨ 𝐂𝐇𝐀𝐓𝐓𝐈𝐍𝐆 ❤️🎸](https://t.me/Flarting_chatting)
 𝐃𝐢𝐬𝐜𝐮𝐬𝐬 :- [✨  𝐆𝐑𝐎𝐔𝐏 🎧](https://t.me/Flarting_chatting)
 
-𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = 💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔](https://t.me/BROKENLONDAZ)**""",
+𝐈𝐟 𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐀𝐧𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬 𝐀𝐧𝐝 𝐇𝐞𝐥𝐩 𝐓𝐡𝐞𝐧 𝐃𝐦 𝐌𝐲 𝐁𝐨𝐬𝐬 = [💔𓊈 𝐁𝐑𝐎𝐊𝐄𝐍 𓊉💔](https://t.me/BROKENLONDAZ)**""",
     reply_markup=InlineKeyboardMarkup(
             [
                 [
